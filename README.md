@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Nicolas Newman and I'm currently a CS major at Purdue University with a focus on Cyber Security and Data Science
+* 💼 [Connect with me on Linkedin](https://www.linkedin.com/in/nicolas-newman/)
 <!--
 **NicolasNewman/NicolasNewman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
