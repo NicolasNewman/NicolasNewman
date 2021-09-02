@@ -26,3 +26,5 @@ Here are some ideas to get you started:
     <img style="margin: 0 1rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasnewman&exclude_repo=VRPaint&langs_count=8&layout=compact&theme=tokyonight" />
   </a>
 </div>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=NicolasNewman)
