@@ -2,7 +2,7 @@
 
 My name is Nicolas Newman.
 * 💼 [Connect with me on Linkedin](https://www.linkedin.com/in/nicolas-newman/)
-* :memo: [Resume]([https://drive.google.com/file/d/1WKN0u4GTNwex_C241LI29nDIEdi48xoz/view?usp=sharing](https://drive.google.com/file/d/1_WNinlbk7gv7b88-ikV_W3REFBBVxePz/view?usp=sharing))
+* :memo: [Resume](https://drive.google.com/file/d/1_WNinlbk7gv7b88-ikV_W3REFBBVxePz/view)
 <!--
 **NicolasNewman/NicolasNewman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
