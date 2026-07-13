@@ -1,8 +1,19 @@
 ### Hi there 👋
 
-My name is Nicolas Newman.
 * 💼 [Connect with me on Linkedin](https://www.linkedin.com/in/nicolas-newman/)
 * :memo: [Resume](https://drive.google.com/file/d/1_WNinlbk7gv7b88-ikV_W3REFBBVxePz/view)
+
+
+#### Professional Work
+- **John Deere** / Junior SWE / _Jan 25 - Mar 26_
+- **John Deere** / Junior Data Engineer / _Jan 24 - Dec 24_
+- **John Deere** / SWE Intern / _May 22 - Aug 22_
+- **Krannet Computing Center** / SWE Intern / _May 21 - Apr 22_
+
+#### Open Source Work
+- **MermaidJS**:
+    - [#2855](https://github.com/mermaid-js/mermaid/pull/2885) KaTeX typesetting support
+    - [#5452](https://github.com/mermaid-js/mermaid/pull/5452) Architecture Diagrams
 <!--
 **NicolasNewman/NicolasNewman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
