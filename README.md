@@ -2,7 +2,7 @@
 
 My name is Nicolas Newman.
 * 💼 [Connect with me on Linkedin](https://www.linkedin.com/in/nicolas-newman/)
-* :memo: [Resume](https://drive.google.com/file/d/1WKN0u4GTNwex_C241LI29nDIEdi48xoz/view?usp=sharing)
+* :memo: [Resume]([https://drive.google.com/file/d/1WKN0u4GTNwex_C241LI29nDIEdi48xoz/view?usp=sharing](https://drive.google.com/file/d/1_WNinlbk7gv7b88-ikV_W3REFBBVxePz/view?usp=sharing))
 <!--
 **NicolasNewman/NicolasNewman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; justify-content: center">
+<!-- <div style="display: flex; justify-content: center">
   <a href="https://github.com/NicolasNewman">
   <img style="margin: 0 1rem" align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasnewman&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" />
   </a>
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=NicolasNewman)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=NicolasNewman) -->
